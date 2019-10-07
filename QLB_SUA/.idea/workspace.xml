@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="222b311c-b3ac-4b38-ba51-eb64bfbf5e04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/Company.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/Company.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/ControllerAdmin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/ControllerAdmin.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/ExportWarehouse.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/ExportWarehouse.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/Home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/Home.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/ImportWarehouse.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/ImportWarehouse.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/Products.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/Products.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/SidePanelContent.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/SidePanelContent.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/User.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/User.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/Company.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/Company.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/ControllerAdmin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/ControllerAdmin.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/ExportWarehouse.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/ExportWarehouse.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/Home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/Home.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/ImportWarehouse.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/ImportWarehouse.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/Products.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/Products.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/SidePanelContent.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/SidePanelContent.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/User.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/User.fxml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="QLB_SUA" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/hvktmm/at13/controller/ControllerAdmin.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R5BrR3NLsxjiY2W9buiEgDd1Jk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25977013" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hvktmm.at13.controller.Main" />
+      <module name="QLB_SUA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hvktmm.at13.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySqlDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hvktmm.at13.config.MySqlDao" />
+      <module name="QLB_SUA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hvktmm.at13.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comhvktmm.at13.utils.PassUtils" />
+      <module name="QLB_SUA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comhvktmm.at13.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hvktmm.at13.dao.UserDao" />
+      <module name="QLB_SUA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hvktmm.at13.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UserDao" />
+        <item itemvalue="Application.PassUtils" />
+        <item itemvalue="Application.MySqlDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="222b311c-b3ac-4b38-ba51-eb64bfbf5e04" name="Default Changelist" comment="" />
+      <created>1566751978376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566751978376</updated>
+      <workItem from="1566751981448" duration="1191000" />
+      <workItem from="1566966639813" duration="23632000" />
+      <workItem from="1567177436843" duration="2467000" />
+      <workItem from="1567181898552" duration="5025000" />
+      <workItem from="1567187293533" duration="2782000" />
+      <workItem from="1567190098894" duration="4582000" />
+      <workItem from="1567255690968" duration="10557000" />
+      <workItem from="1567306831131" duration="7365000" />
+      <workItem from="1567361621604" duration="788000" />
+      <workItem from="1567418318720" duration="2331000" />
+      <workItem from="1567420709138" duration="37000" />
+      <workItem from="1567480406296" duration="15623000" />
+      <workItem from="1567687519986" duration="309000" />
+      <workItem from="1568132897746" duration="74000" />
+      <workItem from="1568133414538" duration="4050000" />
+      <workItem from="1568171982317" duration="33971000" />
+      <workItem from="1568306417070" duration="3326000" />
+      <workItem from="1568391607301" duration="3065000" />
+      <workItem from="1568430581919" duration="14578000" />
+      <workItem from="1568513760117" duration="42979000" />
+      <workItem from="1568604212533" duration="5257000" />
+      <workItem from="1568618928302" duration="2126000" />
+      <workItem from="1568820150682" duration="596000" />
+      <workItem from="1568861850672" duration="658000" />
+      <workItem from="1568947278365" duration="959000" />
+      <workItem from="1569125011015" duration="5069000" />
+      <workItem from="1569142905983" duration="5692000" />
+      <workItem from="1569152659207" duration="17947000" />
+      <workItem from="1569205837017" duration="12905000" />
+      <workItem from="1569224538288" duration="1739000" />
+      <workItem from="1569228305249" duration="127000" />
+      <workItem from="1569832853175" duration="1578000" />
+      <workItem from="1569834687834" duration="11489000" />
+      <workItem from="1570126100797" duration="573000" />
+      <workItem from="1570158369254" duration="9990000" />
+      <workItem from="1570202141414" duration="12227000" />
+      <workItem from="1570243251174" duration="14896000" />
+      <workItem from="1570297256854" duration="8373000" />
+      <workItem from="1570356576012" duration="14481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hvktmm/at13/service/ProductService.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
